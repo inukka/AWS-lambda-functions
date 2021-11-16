@@ -13,7 +13,7 @@
   "devDependencies": {
     "@types/source-map-support": "^0.4.0",
     "awesome-typescript-loader": "^3.4.1",
-    "aws-sdk": "^2.606.0",
+    "aws-sdk": "^2.814.0",
     "moment-timezone-data-webpack-plugin": "^1.1.0",
     "serverless": "^1.26.0",
     "serverless-offline": "^3.16.0",
